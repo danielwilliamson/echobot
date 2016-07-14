@@ -3,8 +3,8 @@ var builder = require('botbuilder');
 
 // Get secrets from server environment
 var botConnectorOptions = { 
-    appId: process.env.BOTFRAMEWORK_APPID, 
-    appSecret: process.env.BOTFRAMEWORK_APPSECRET 
+    appId: CoffeeBot, 
+    appSecret: 3BG7m1EHXLsA39KOVDtBnz4 
 };
 
 // Create bot
