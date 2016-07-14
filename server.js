@@ -3,8 +3,8 @@ var builder = require('botbuilder');
 
 // Get secrets from server environment
 var botConnectorOptions = { 
-    appId: 2ab2ad57-604b-473d-99f7-d958daab3f26, 
-    appSecret: 3BG7m1EHXLsA39KOVDtBnz4 
+    appId: fbcf3451-2ca9-46df-b75a-d368f86a0e41, 
+    appSecret: JJu5VUBnP27j4tXsFtbz5Rk 
 };
 
 // Create bot
